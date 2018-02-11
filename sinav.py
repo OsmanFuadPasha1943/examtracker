@@ -1,3 +1,5 @@
+#!/bin/python
+
 class Ders:
     def __init__(self, ders_adi, toplam, dogru, yanlis):
         self.ders_adi = ders_adi
